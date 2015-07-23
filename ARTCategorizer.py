@@ -11,7 +11,7 @@ import random
 
 categories = 1
 rho = 0.5
-words = True #TODO Make this an argument
+words = False #TODO Make this an argument
 NWORDS = 7
 # handle arguments
 parser = argparse.ArgumentParser(description='Sort a body of data into categories')
